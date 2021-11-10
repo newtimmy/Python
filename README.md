@@ -1,5 +1,3 @@
 # Python
 
-## Second Heading
-
-### Third Heading
+Different python projects
